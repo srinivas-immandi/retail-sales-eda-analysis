@@ -20,9 +20,10 @@ To analyze retail sales data and extract meaningful insights that can support:
 
 ##  Repository Structure
 
-* `Retails_Sales_EDA_Project.ipynb` → Main analysis notebook
-* `Retail_Sales_dataset2.csv` → Dataset used for analysis
 * `README.md` → Project documentation
+* `Retail_Sales_dataset2.csv` → Dataset used for analysis
+* `Retails_Sales_EDA_Project.ipynb` → Main analysis notebook
+
 
 ---
 
