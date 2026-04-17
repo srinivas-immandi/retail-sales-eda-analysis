@@ -1,64 +1,89 @@
-Retail Sales Data Analysis (EDA)
+# Retail Sales EDA Analysis
 
-Project Overview
+## Project Overview
 
-This project focuses on performing **Exploratory Data Analysis (EDA)** on a retail sales dataset to uncover insights, trends, and patterns in customer purchases.
+This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset to uncover key insights into customer behavior, product performance, and sales trends.
 
-The analysis helps in understanding:
-
-* Sales distribution
-* Customer behavior
-* Product performance
-* Key business insights
-
----
- Dataset Description
-
-The dataset contains information about:
-
-* Customer details
-* Product categories
-* Purchase amounts
-* Transaction details
+The analysis helps businesses make **data-driven decisions** by identifying patterns in purchasing behavior.
 
 ---
 
-Tools & Technologies Used
+##  Objective
 
-* Python 🐍
+To analyze retail sales data and extract meaningful insights that can support:
+
+* Business growth strategies
+* Customer segmentation
+* Revenue optimization
+
+---
+
+##  Repository Structure
+
+* `Retails_Sales_EDA_Project.ipynb` → Main analysis notebook
+* `Retail_Sales_dataset2.csv` → Dataset used for analysis
+* `README.md` → Project documentation
+
+---
+
+##  Tech Stack
+
+* Python
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
 
 ---
 
-Key Analysis Performed
+##  Analysis Workflow
 
-* Data Cleaning and Preprocessing
-* Handling Missing Values
-* Data Visualization
-* Sales Trend Analysis
-* Category-wise Performance
-* Customer Insights
+### 1. Data Understanding
+
+* Explored dataset structure
+* Checked data types and summary statistics
+
+### 2. Data Cleaning
+
+* Verified missing values
+* Ensured consistency in dataset
+
+### 3. Exploratory Data Analysis
+
+####  Univariate Analysis
+
+* Age distribution
+* Sales distribution
+* Product category frequency
+
+####  Bivariate Analysis
+
+* Gender vs Sales
+* Age vs Spending
+* Category vs Revenue
+
+####  Multivariate Analysis
+
+* Combined analysis of multiple features
+* Customer segmentation patterns
 
 ---
 
-Key Insights
+##  Key Insights
 
-* Identified top-performing product categories
-* Analyzed customer purchasing behavior
-* Found trends in sales over time
-* Highlighted high-revenue segments
+* Certain product categories contribute significantly to total revenue
+* Customer demographics influence purchasing behavior
+* Spending patterns vary across age groups
+* Identified high-value customer segments
 
 ---
 
- Visualizations Included
+##  Visualizations
 
-* Bar Charts
-* Line Plots
+* Bar charts
 * Histograms
+* Box plots
 * Heatmaps
+
 
 
